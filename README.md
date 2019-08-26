@@ -1,3 +1,4 @@
 # Earnsurance
 
-###### Frontend code is in Master branch and Backend code is in Develop branch.
+##### This repo consists of only frontend code
+##### A Backend service must be running to active blockchain part
