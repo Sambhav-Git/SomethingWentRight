@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "something-went-right",
+    "slug": "",
+    "description": "",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icon.png",
+    "splash": {
+      "image": "./assets/icons/loading2.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
