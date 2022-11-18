@@ -38,7 +38,7 @@
     "rne-listitem-web": "gist:4a1da48acb977660e8665bae5262600b"
   },
   "devDependencies": {
-    "@expo/webpack-config": "^0.7.3",
+    "@expo/webpack-config": "^0.17.3",
     "babel-preset-expo": "^6.0.0",
     "gh-pages": "^2.1.1",
     "jest-expo": "^34.0.0"
